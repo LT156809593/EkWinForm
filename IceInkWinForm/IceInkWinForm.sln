@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IceInkWinForm", "IceInkWinForm.csproj", "{D174CED4-A54C-4DCB-8D7C-32EFC8A6865E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D174CED4-A54C-4DCB-8D7C-32EFC8A6865E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D174CED4-A54C-4DCB-8D7C-32EFC8A6865E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D174CED4-A54C-4DCB-8D7C-32EFC8A6865E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D174CED4-A54C-4DCB-8D7C-32EFC8A6865E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23D7DED7-7163-4DDC-A4D1-E51F346077B3}
+	EndGlobalSection
+EndGlobal
